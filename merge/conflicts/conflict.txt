@@ -1,1 +1,1 @@
-start confict
+finish the conflict
